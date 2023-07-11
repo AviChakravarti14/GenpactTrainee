@@ -18,6 +18,7 @@ namespace ConsoleAppneww
         static void Main(string[] args)
         { Emp emp = new Emp();
             Console.WriteLine(emp.Fullname("Avi", "Chakravarti"));
+            Console.WriteLine(emp.Fullname(lname:"Chakravarti", fname:"Chakravarti"));
             Console.ReadKey();
         }
     }
