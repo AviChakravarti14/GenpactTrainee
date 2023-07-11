@@ -1,0 +1,8 @@
+C:\Genpact\Day 2\ConsoleAppneww\ConsoleAppneww\bin\Debug\ConsoleAppneww.exe.config
+C:\Genpact\Day 2\ConsoleAppneww\ConsoleAppneww\bin\Debug\ConsoleAppneww.exe
+C:\Genpact\Day 2\ConsoleAppneww\ConsoleAppneww\bin\Debug\ConsoleAppneww.pdb
+C:\Genpact\Day 2\ConsoleAppneww\ConsoleAppneww\obj\Debug\ConsoleAppneww.csproj.AssemblyReference.cache
+C:\Genpact\Day 2\ConsoleAppneww\ConsoleAppneww\obj\Debug\ConsoleAppneww.csproj.SuggestedBindingRedirects.cache
+C:\Genpact\Day 2\ConsoleAppneww\ConsoleAppneww\obj\Debug\ConsoleAppneww.csproj.CoreCompileInputs.cache
+C:\Genpact\Day 2\ConsoleAppneww\ConsoleAppneww\obj\Debug\ConsoleAppneww.exe
+C:\Genpact\Day 2\ConsoleAppneww\ConsoleAppneww\obj\Debug\ConsoleAppneww.pdb
